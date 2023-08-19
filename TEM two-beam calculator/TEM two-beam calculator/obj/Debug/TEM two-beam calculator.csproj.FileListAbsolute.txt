@@ -1,0 +1,8 @@
+G:\TEM two-beam calculator\TEM two-beam calculator\bin\Debug\TEM two-beam calculator.exe.config
+G:\TEM two-beam calculator\TEM two-beam calculator\bin\Debug\TEM two-beam calculator.exe
+G:\TEM two-beam calculator\TEM two-beam calculator\bin\Debug\TEM two-beam calculator.pdb
+G:\TEM two-beam calculator\TEM two-beam calculator\obj\Debug\TEM_two_beam_calculator.Properties.Resources.resources
+G:\TEM two-beam calculator\TEM two-beam calculator\obj\Debug\TEM two-beam calculator.csproj.GenerateResource.Cache
+G:\TEM two-beam calculator\TEM two-beam calculator\obj\Debug\TEM two-beam calculator.exe
+G:\TEM two-beam calculator\TEM two-beam calculator\obj\Debug\TEM two-beam calculator.pdb
+G:\TEM two-beam calculator\TEM two-beam calculator\obj\Debug\TEM_two_beam_calculator.TB_calculator.resources
