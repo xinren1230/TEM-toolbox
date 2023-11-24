@@ -1,0 +1,13 @@
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.csprojAssemblyReference.cache
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM_wavelength_calculator.Form1.resources
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM_wavelength_calculator.Properties.Resources.resources
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.csproj.GenerateResource.cache
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.csproj.CoreCompileInputs.cache
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\bin\Debug\TEM wavelength calculator.exe.config
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\bin\Debug\TEM wavelength calculator.exe
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\bin\Debug\TEM wavelength calculator.pdb
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.exe
+D:\程序设计\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.pdb
+G:\TEM-toolbox\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\bin\Debug\TEM wavelength calculator.exe.config
+G:\TEM-toolbox\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.exe
+G:\TEM-toolbox\TEM wavelength\TEM wavelength calculator\TEM wavelength calculator\obj\Debug\TEM wavelength calculator.pdb
